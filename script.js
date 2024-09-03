@@ -1,0 +1,4 @@
+function myFunk()
+{
+    console .log()
+}
