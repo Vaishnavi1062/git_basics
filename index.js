@@ -6,3 +6,5 @@ const location = "Shahada";
 
 const age = 22;
 const age = "Ashvini";
+
+Function 

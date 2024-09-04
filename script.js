@@ -1,4 +1,4 @@
 function myFunk()
 {
-    console .log()
+    console.log("This is a function  ");
 }
